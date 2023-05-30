@@ -1,0 +1,37 @@
+body{
+background: #e3d5d6
+;
+}
+
+H1{
+font-size: 3rem;
+color: black;
+font-family: sans-serif;
+text-align: center;
+font-weight: 200;
+
+
+
+}
+H2{
+font-size: 1.5rem;
+color: black;
+font-family: sans-serif;
+
+font-weight: 200;
+}
+.Select-control {
+    background-color: #e3d5d6 !important;
+    color:white;
+}
+
+.Select-value-label {
+    color: black !important;
+}
+
+.Select-menu-outer {
+    background-color: #e3d5d6;
+    color: black;
+}
+
+
